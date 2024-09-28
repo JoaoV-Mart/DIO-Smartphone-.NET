@@ -1,0 +1,14 @@
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\DesafioProjetoSmartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\DesafioProjetoSmartphone.AssemblyInfoInputs.cache
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\DesafioProjetoSmartphone.AssemblyInfo.cs
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\DesafioProjetoSmartphone.csproj.CoreCompileInputs.cache
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\bin\Debug\net8.0\DesafioProjetoSmartphone.exe
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\bin\Debug\net8.0\DesafioProjetoSmartphone.deps.json
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\bin\Debug\net8.0\DesafioProjetoSmartphone.runtimeconfig.json
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\bin\Debug\net8.0\DesafioProjetoSmartphone.dll
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\bin\Debug\net8.0\DesafioProjetoSmartphone.pdb
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\DesafioProjetoSmartphone.dll
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\refint\DesafioProjetoSmartphone.dll
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\DesafioProjetoSmartphone.pdb
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\DesafioProjetoSmartphone.genruntimeconfig.cache
+C:\Users\João Vítor\Downloads\DesafioProjetoSmartphone\obj\Debug\net8.0\ref\DesafioProjetoSmartphone.dll
